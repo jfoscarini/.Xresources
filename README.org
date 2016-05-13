@@ -1,0 +1,5 @@
+#+TITLE:	My Xresources dotfile
+#+AUTHOR:	João Foscarini
+#+EMAIL:	jfoscarini@gmail.com
+
+This is my Xresources dotfile.
